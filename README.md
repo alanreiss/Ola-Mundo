@@ -8,6 +8,6 @@ This line I add on the site, *amazing!*
 
 * Aula de **Git e GitHub**
 * Aula de **Markdown**
-* *Coming soon*
-
+* *Coming soon.*
+---
 Este repositório foi criado durante uma **aula ao vivo!**
